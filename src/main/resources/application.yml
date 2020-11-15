@@ -1,0 +1,2 @@
+server:
+  port : 8080  #this is where you can adjust the port the API will run on.

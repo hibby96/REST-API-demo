@@ -1,4 +1,4 @@
-# REST API demo
+# REST API demo, USING SPRING BOOT!
 
 This is a simple, portable REST API demo using a family member database.  At startup of the database, "Will" will be the only entry with ID = 1.  Please note the database is meant to be used locally with Docker and run on port 5430 (so as not to conflict with any Postgres DB you already have running on your machine already using 5432).
 
